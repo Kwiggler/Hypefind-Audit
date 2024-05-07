@@ -1,0 +1,71 @@
+JHHR - MRI
+JHHR - Nuclear Medicine
+JHHR - OnCall Hrs
+JHHR - Oncall Units
+JHHR - Physics and Engineering
+JHHR - Radiology Admin
+JHHR - School of RADTECH
+JHHR - Transport
+JHHR - Ultrasound
+JHHR All Employees
+JHHR OR-WB OnCall Eligible
+JHHR-Diagnostics-ED
+JHHR-Diagnostics-JHHR Diag.
+JHHR-Diagnostics-JHOC
+JHHR-Diagnostics-OR-WB
+JHHR-Diagnostics-PEDS
+JHHR-Diagnostics-PRN-WE
+JHHR-Diagnostics-Tower
+JHHR-Inpatient MRI-Blalock MRI
+JHHR-Inpatient MRI-JHHR MRI
+JHHR-Inpatient MRI-JHOC 3FL
+JHHR-Inpatient MRI-MRI Build
+JHHR-Inpatient MRI-Zayed 1FL
+JHHR-Inpatient MRI-Zayed 3FL
+JHHR-Inpatient MRI-Zayed 4FL
+JHHR-Inpatient MRI-Zayed 5th
+JHHR-Nuc.Med-JHOC AN02
+JHHR-Nuc.Med-JHOC AN03
+JHHR-Nuc.Med-JHOC AN04
+JHHR-Nuc.Med-JHOC AN05
+JHHR-Nuc.Med-JHOC Cardiac
+JHHR-Nuc.Med-JHOC Charge
+JHHR-Nuc.Med-JHOC DEXA
+JHHR-Nuc.Med-Nel. Bsmt Charge
+JHHR-Nuc.Med-Nel. Bsmt NightQC
+JHHR-Nuc.Med-Nel. Bsmt NM01
+JHHR-Nuc.Med-Nel. Bsmt NM02
+JHHR-Nuc.Med-Nel. Bsmt NM03
+JHHR-Nuc.Med-Nuclear Med
+JHHR-Nuc.Med-PEDS
+JHHR-US-CLL-GR1 (Group A w/CC)
+JHHR-US-CLL-GR2 (Group B w/CC)
+JHHR-US-CLL-GR3 (Group C w/CC)
+JHHS Finance
+JHHS-4500080027-Supply Chain NCR
+JHHS-4500310304-Clinical Engr
+JHHS-Financial Clearance
+JHM Executive Payroll
+JHSC-4680020010-GS Pavillion II 
+JHSC-4680020020-Knoll North
+JHSC-4680020030-White Marsh
+JHSC-4680020040-Lutherville
+JHSC-4680020050-Bethesda
+JHSC-4680020060-Bel Air
+JHSC-4680020070-Howard County
+JHSC-4680020080-Fertility Ctr ASC
+MKT - Global (Rename -'JHHS-Mkt')
+PHQ - Clinical Coordinator
+PHQ - Global Employees
+Potomac Home Health Care - HS13
+Potomac Home Support - HS14
+PTO Balance < 0
+Terminated Employees - Global
+Terminated Employees - Global with Hrs
+Total Add'l Straight Time Hrs
+Total Callback Hours
+Total FMLA Hours
+Total Holiday Hours
+Total Oncall Hours
+Total Overtime Hours
+Total Paid Leave Hours

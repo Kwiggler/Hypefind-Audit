@@ -1,0 +1,88 @@
+JHCP-4404200052-Heart Care-Bethes Ph
+JHCP-4404200201-Heart Care-SS Admin
+JHCP-4404200252-Heart Care-SS Phys
+JHCP-4404200301-Heart Care-Rockville
+JHCP-4404200352-Heart Care-Rockvl Ph
+JHCP-4404200401-Heart Care-Chevy Ch
+JHCP-4404200452-Heart Care-CC Phys
+JHCP-4404214501-Waters Edge
+JHCP-4404214552-Waters Edge IM Phys
+JHCP-4404214572-Waters Edge Peds Phy
+JHCP-4404220001-HCGH Pulmonology
+JHCP-4404220052-HCGH Pulmon Phys
+JHCP-4404315001-JHCP At Annapolis
+JHCP-4404315052-Annapolis FP Phys
+JHCP-4404325551-Odenton FP Staff
+JHCP-4404325552-Odenton FP Physician
+JHCP-4404325562-Odenton IM Phys
+JHCP-4404325571-Odenton Peds Staff
+JHCP-4404325572-Odenton Peds Phys
+JHCP-4404325589-Bayview Ob @ Odenton
+JHCP-4404426301-JHCP At Charles Cty
+JHCP-4404426352-Charles County Phys
+JHCP-4404516501-JHCP At Howard
+JHCP-4404516552-Howard FP Physicians
+JHCP-4404516571-Howard Peds Staff
+JHCP-4404516572-Howard Peds Phy
+JHCP-4404516591-Howard Ob-Gyn
+JHCP-4404516592-Howard Ob-Gyn Phys
+JHCP-4404526601-Fulton Admin
+JHCP-4404526652-Fulton Physicians
+JHCP-4404536701-HCGH General Surgery
+JHCP-4404617001-JHCP At Montgomery
+JHCP-4404617052-Montgomery FP Phys
+JHCP-4404717501-JHCP At Westminster
+JHCP-4404717552-Westminster FP Phys
+JHCP-4404818001-JHCP At Frederick
+JHCP-4404818052-Frederick FP Phys
+JHCP-4404918501-JHCP At Hagerstown
+JHCP-4404918552-Hager FP Physicians
+JHCP-4405001001-Cardiac Surgery Adm
+JHCP-4405001052-Cardiac Surgery Phys
+JHCP-4405002001-SOMC Admin
+JHCP-4405002053-Colo-Rectal Surgery
+JHCP-4405003001-Ortho Surgery
+JHCP-4405004001-N Bethesda
+JHCP-4405004052-N Bethesda Phys
+JHCP-4405007052-JHCP Palliative Care
+JHCP-4405009001-NCR Neurology
+JHCP-4405009052-NCR Neurology Phys
+JHCP-4405009152-Sibley Neuro
+JHCP-4405010001-Dtwn Bethesda
+JHCP-4405010052-Dtwn Bethesda Phys
+JHCP-4405010053-Dt Bethesda Rheum
+JHCP-4405010054-Dtwn Bethesda Endo
+JHCP-4405011201-SOMC Breast Surgery
+JHCP-4405011252-SOMC Breast Surg Phy
+JHCP-4405012001-Foxhall Surg
+JHCP-4405012052-Foxhall Surg Phys
+JHCP-4405013001-Sibley Mob
+JHCP-4405014001-DC @ I Street
+JHCP-4405014052-DC @ I Street Physic
+JHCP-4405015001-Urbana
+JHCP-4405015052-Urbana Phys
+JHCP-4405016052-Suburban Urology Phy
+JHCP-4405019001-Sibley SPG
+JHCP-4405019052-Sibley SPG PHYS
+JHCP-4405032001-McLean Fam Staff
+JHCP-4405032052-McLean Fam Provider
+JHCP-4405052000-Rockville Peds
+JHCP-4405052052-Rockville Peds Provider
+JHCP-5502002012-Odtn Shared Suite
+JHHR - Called Back Hrs
+JHHR - CT Body
+JHHR - Customer Service
+JHHR - CVC
+JHHR - Diag - ED Grp2 CLL SH1
+JHHR - Diagnostics
+JHHR - eRadiology
+JHHR - Imaging Bethesda
+JHHR - Imaging Call Center
+JHHR - Imaging Columbia
+JHHR - Imaging Greenspring
+JHHR - Imaging White Marsh
+JHHR - Intervent Neurorad
+JHHR - Interventional RAD
+JHHR - JHI Admin
+JHHR - Mammography
+JHHR - MIIT
