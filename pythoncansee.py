@@ -10,18 +10,18 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 def process_line(line):
     # Click on the search bar and type the line
     pyautogui.click(1926, 383)
-    time.sleep(2)
+    time.sleep(.5)
     pyautogui.write(line)
-    time.sleep(2)
+    time.sleep(.5)
     pyautogui.press('tab')
-    time.sleep(2)
+    time.sleep(.5)
     pyautogui.press('enter')
-    time.sleep(2)
+    time.sleep(.5)
     # Select and edit Hyperfind
     pyautogui.click(1991, 450)  # Select Hyperfind
-    time.sleep(2)
+    time.sleep(.5)
     pyautogui.click(1960, 346)  # Edit Hyperfind
-    time.sleep(2)
+    time.sleep(.5)
     
     # Take a screenshot of the specified area
     image = pyautogui.screenshot(region=(2045, 1100, 3145 - 2045, 1375 - 1100))
@@ -42,13 +42,14 @@ def process_line(line):
     # Delete the screenshot
     image.close()  # Close the image file to free up system resources
     pyautogui.moveTo(1960, 346)  # Move to return button (may help avoid misclicks)
-    time.sleep(2)
+    time.sleep(.5)
     pyautogui.click()  # Click return
-    time.sleep(2)
+    time.sleep(.5)
     pyautogui.click(1926, 383)
+    time.sleep(.5)
     # Press Ctrl + A to select all text
     pyautogui.hotkey('ctrl', 'a')
-    
+    time.sleep(.5)
     # Press Delete to clear the selected text
     pyautogui.press('delete')
     time.sleep(2)  # Wait for 2 seconds
